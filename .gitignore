@@ -1,0 +1,9 @@
+bin/
+obj/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+*.user
+*.suo
+*.userprefs
